@@ -6,6 +6,7 @@
     'author': "Jay Suthar",
     'category': 'Customise',
     'depends': ['base'],
+    'images': ['static/images/banner.png', 'static/description/icon.png'],
     'data': [
         'views/assets.xml',
     ],
