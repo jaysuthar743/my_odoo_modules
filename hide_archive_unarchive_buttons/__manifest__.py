@@ -6,6 +6,7 @@
     'author': "Jay Suthar",
     'category': 'Customise',
     'depends': ['base'],
+    'license': 'AGPL-3',
     'images': ['static/images/banner.png', 'static/description/icon.png'],
     'data': [
         'views/assets.xml',
